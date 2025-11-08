@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    
+    
+   
+}
+
+h1{
+    background-color: #081b31;
+    color:aliceblue;
+    text-align: center;
+    height: 70px;
+    line-height: 70px;
+    margin-bottom: 5rem;
+
+
+}
+
+
+.choices, .choice{
+    height: 270px;
+    display: block;
+    margin: 0 auto;
+    width: 40%;
+    display: flex; 
+    margin-bottom: 5rem;
+    
+     
+}
+
+#rock:hover {
+    border-radius: 20rem;
+    cursor: pointer;
+    background-color: #081b31;
+  }
+
+#paper:hover {
+    border-radius: 20rem;
+    cursor: pointer;
+    background-color: #081b31;
+  }
+
+#scissors:hover {
+    border-radius: 20rem;
+    cursor: pointer;
+    background-color: #081b31;
+  }
+  
+  
+
+.scoreboard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    gap: 5rem;
+    
+    
+}
+
+
+#user,#comp{
+    font-size:5rem;
+
+}
+
+.msgbox{
+    margin-top: 5rem;
+}
+
+h2{
+    background-color: #081b31;
+    color:white;
+    font-size:3rem;
+    display: inline;
+    padding:1rem;
+    border-radius:2rem; 
+    
+}
+
+
+
+
+
+
+
+
+
