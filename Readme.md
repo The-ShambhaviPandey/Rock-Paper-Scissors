@@ -1,5 +1,7 @@
 # Rock Paper Scissors
 
+[Play it here!](https://the-shambhavipandey.github.io/Rock-Paper-Scissors/)
+
 A fun and interactive **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**.  
 Challenge the computer, test your luck, and see who wins — you or the machine!
 
