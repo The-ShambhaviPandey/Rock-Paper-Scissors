@@ -5,7 +5,7 @@ Challenge the computer, test your luck, and see who wins — you or the machine!
 
 ---
 
-## 🎯 Features
+## Features
 
 - Classic **Rock–Paper–Scissors** gameplay
 - **Dynamic scoring system** that tracks wins, losses, and draws
@@ -15,7 +15,7 @@ Challenge the computer, test your luck, and see who wins — you or the machine!
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. Choose **Rock**, **Paper**, or **Scissors**.
 2. The computer randomly selects one of the three.
@@ -27,7 +27,7 @@ Challenge the computer, test your luck, and see who wins — you or the machine!
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 | File            | Description                                                 |
 | --------------- | ----------------------------------------------------------- |
@@ -38,7 +38,7 @@ Challenge the computer, test your luck, and see who wins — you or the machine!
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - **HTML5**
 - **CSS3**
@@ -46,16 +46,16 @@ Challenge the computer, test your luck, and see who wins — you or the machine!
 
 ---
 
-## 🚀 Demo
+## Demo
 
 ---
 
-## 📝 License
+## License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## 💡 Author
+## Author
 
 Made with ❤️ by **Shambhavi** on _15/11/2023_
