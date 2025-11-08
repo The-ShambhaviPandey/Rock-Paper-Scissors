@@ -1,4 +1,4 @@
-# Rock Paper Scissors 🎮
+# Rock Paper Scissors
 
 A fun and interactive **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**.  
 Challenge the computer, test your luck, and see who wins — you or the machine!
@@ -9,7 +9,6 @@ Challenge the computer, test your luck, and see who wins — you or the machine!
 
 - Classic **Rock–Paper–Scissors** gameplay
 - **Dynamic scoring system** that tracks wins, losses, and draws
-- **Responsive design** — works on desktop and mobile
 - **Randomized computer choices** for fair play
 - Smooth animations and interactive UI
 
@@ -47,6 +46,8 @@ Challenge the computer, test your luck, and see who wins — you or the machine!
 ---
 
 ## Demo
+
+Check it out live here: [Rock Paper Scissors on GitHub Pages](https://the-shambhavipandey.github.io/Rock-Paper-Scissors/)
 
 ---
 
